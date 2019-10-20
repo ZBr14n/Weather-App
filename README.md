@@ -12,9 +12,10 @@ One idea that I have in mind to enhance the app is to create a function where ev
 
 
 # Credits
-Hasura GraphQL Engine from Hasura
-Next.js from Zeit
-PostGreSQL from PostgreSQL Global Development Group
+
+- Hasura GraphQL Engine from Hasura
+- Next.js from Zeit
+- PostGreSQL from PostgreSQL Global Development Group
 
 # Author
 
