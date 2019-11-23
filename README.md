@@ -1,6 +1,6 @@
 # Weather-App
 
-https://with-apollo-72i5j640h.now.sh/
+https://with-apollo.lamb.now.sh
 
 # What is this?
 
