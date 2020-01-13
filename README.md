@@ -2,7 +2,7 @@
 
 https://with-apollo.lamb.now.sh
 
-Public GraphQL/PostgreSQL database server:
+## Public GraphQL/PostgreSQL database server:
 https://tranquil-springs-22732.herokuapp.com/
 
 # What is this?
